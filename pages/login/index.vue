@@ -73,7 +73,7 @@ export default {
     return {
       user: {
         username: '',
-        email: '123@abc.om',
+        email: '123@abc.com',
         password: '12345678'
       },
       errors: {},  //错误信息

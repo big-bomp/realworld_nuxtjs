@@ -149,6 +149,7 @@
         </nav>
         <!-- /分页列表 -->
 
+        <!-- 标签列表 start -->
         <div class="col-md-3">
           <div class="sidebar">
             <p>Popular Tags</p>
@@ -170,6 +171,7 @@
             </div>
           </div>
         </div>
+        <!-- 标签列表 end -->
       </div>
     </div>
   </div>
